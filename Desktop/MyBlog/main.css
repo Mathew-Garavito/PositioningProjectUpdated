@@ -1,0 +1,58 @@
+
+    
+body {
+background-color: antiquewhite;
+background-image: url("images/mountains.jpeg");
+color: black;
+}
+
+
+
+.header {
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 200%;
+}
+
+.nav{
+    padding: 30px 30px 30px 30px;
+    background-color: #bababa;
+    text-align: center;
+    margin-top: -20px;
+    margin-left: -20px;
+    margin-right: -20px;
+}
+
+h1{
+    margin-top: -20px;
+}
+
+ul li{
+
+    text-align: center;
+    font-size: 100%;
+    list-style-type: none;
+    display: inline;
+    
+}
+
+
+h3 {
+list-style-type: none;
+text-align: center;
+
+}
+ol {
+text-align: center;
+list-style-type: none;
+display: inline;
+}
+
+
+
+
+
+
+
+
+
