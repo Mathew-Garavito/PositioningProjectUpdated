@@ -1,0 +1,30 @@
+h1{
+    font-family: "Raleway";
+    }
+    
+    .FirstName{
+        font-family: "Raleway";
+        margin-top: 5px;
+    }
+    .LastName{
+        font-family: "Raleway";
+        margin-top: 5px;
+    }
+    .Submit{
+        font-family: "Raleway";
+        margin-top: 5px;
+    }
+    
+    .Email{
+        font-family: "Raleway";
+        margin-top: 10px;
+    }
+    
+    .contentSection{
+        text-align: center;
+        border: 1px solid black;
+        height: 250px;
+        width: 200px;
+        margin-left: 500px;
+        margin-top: 200px;
+    }
